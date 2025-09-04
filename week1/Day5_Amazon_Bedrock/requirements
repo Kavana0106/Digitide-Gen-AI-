@@ -1,2 +1,2 @@
-transformers 
-pipeline
+boto3
+python-dotenv
